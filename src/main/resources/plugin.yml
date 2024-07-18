@@ -1,0 +1,4 @@
+name: SocketEvent
+version: '1.0-SNAPSHOT'
+main: org.nerceptot.socketEvent.SocketEvent
+api-version: '1.21'
